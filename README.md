@@ -1,0 +1,2 @@
+# WWTStringEncoding
+EncodeString
